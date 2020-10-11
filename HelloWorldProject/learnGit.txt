@@ -1,2 +1,2 @@
-This is my first time to use Git.
-I am quite excited about it.
+This is my second time to use Git.
+I am a little excited about it.
