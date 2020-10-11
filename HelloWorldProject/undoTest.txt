@@ -1,0 +1,2 @@
+This is an undo test of Git.
+Now is in the state of Working Area.
